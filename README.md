@@ -19,3 +19,10 @@
 ![activity 2 commits](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/d56fee84-df30-47c6-ae06-825ec4f68e39)
 
 ![hello doaa](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/3aa5d09f-d9f0-4829-9913-29ae0ce15dac)
+
+### Activity 3: Chapter 3 Example
+![commits activity 3](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/b59c6081-bfc0-4006-9678-b13d27c1614d)
+
+![activity 3](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/a78f0794-5b64-49c1-9e90-da3607652548)
+
+

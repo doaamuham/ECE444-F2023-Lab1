@@ -30,6 +30,8 @@
 
 ![ac 4](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/eb166ed3-f5f8-439b-91c8-88eb6d23c5c5)
 
+![flasky home ac 4](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/a6937bda-a32a-4da7-a3cf-b6a69f99efea)
+
 ![activity 4 first](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/ef2a18ea-e845-4eac-8ded-e67a547e9f3b)
 
 ![activity 4 second](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/a0016a0b-f22f-4d1a-b445-46f20f6d369c)

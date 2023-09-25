@@ -36,7 +36,7 @@
 
 ![activity 4 second](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/a0016a0b-f22f-4d1a-b445-46f20f6d369c)
 
-![ac 4](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/0598d36d-3047-42da-8f1e-44b606085ef9)
+
 
 
 

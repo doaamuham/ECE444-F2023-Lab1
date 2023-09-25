@@ -28,6 +28,8 @@
 ### Activity 4: Chapter 4 Example
 ![activity 4 commit](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/5c625ffa-a615-42fc-ad9c-14fb1e365f90)
 
+![ac 4](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/eb166ed3-f5f8-439b-91c8-88eb6d23c5c5)
+
 ![activity 4 first](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/ef2a18ea-e845-4eac-8ded-e67a547e9f3b)
 
 ![activity 4 second](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/a0016a0b-f22f-4d1a-b445-46f20f6d369c)

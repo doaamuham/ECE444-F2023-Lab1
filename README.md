@@ -20,9 +20,9 @@
 ![title change](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/7d75bec2-b46e-4bd0-bd3e-928768879f44)
 
 ### Activity 4
-![docker build](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/14e4cd8f-8b5e-43cb-be12-44d6bbf48117)
+![build dock](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/5a49e9bd-4c44-43dc-abe0-729c7dfc5591)
 
-![docker ac 4](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/7ae12ed9-aafa-4b31-a2cd-3d21d90409be)
+![run dock](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/7fe1f7bf-bf1c-44f8-822d-e03ed15cc51d)
 
 ![running cont](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/1725d9a1-d6dc-4834-9eed-f158e2d07daa)
 

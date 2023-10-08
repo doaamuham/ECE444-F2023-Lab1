@@ -11,6 +11,9 @@
 
 ![default lab3](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/6668ffd8-47ec-4430-bdec-8065c5c80b0f)
 
+### Activity 2: Docker Installation
+![docker install](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/52e2f4ae-132b-4cb3-8770-f54daeaf49df)
+
 
 
 

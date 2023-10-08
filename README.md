@@ -24,8 +24,6 @@
 
 ![docker ac 4](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/7ae12ed9-aafa-4b31-a2cd-3d21d90409be)
 
-![showing container](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/02c62c2d-f571-4969-87ea-92b48bb1298b)
-
 ![running cont](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/1725d9a1-d6dc-4834-9eed-f158e2d07daa)
 
 ![cont](https://github.com/doaamuham/ECE444-F2023-Lab1/assets/126016494/cc59344e-4b3f-4ff7-9fce-e75906dcc2e6)
